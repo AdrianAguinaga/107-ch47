@@ -12,6 +12,7 @@ print("my age is"+ str(age))
 # if(age < 100){console.log("no worries youre not that old")}
 if age <99:    
     print("dont worry youre not that old")
+    
         
 elif age >101:
     print("congratz youre a century")
